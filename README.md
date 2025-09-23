@@ -16,25 +16,17 @@ int main(){
 }
 ```
 ### Structure of a C Program :-
+
 <table>
-  <tr>
-    <td colspan="2">col1</td>
-  </tr>
-  <tr>
-    <!-- The outer row now has three cells to match the header -->
-    <td></td> <!-- This cell will be blank -->
-    <td colspan="2"> <!-- This cell spans two columns to contain the nested table -->
-      <table>
-        <tr>
-          <td>col1a</td>
-          <td>col1b</td>
-        </tr>
-      </table>
-    </td>
-    <td></td> <!-- This cell will also be blank -->
-  </tr>
+    <tr>
+        <td colspan="2">Column 1.</td>
+        <table>
+            <tr>
+                <td>Column1a.</td>
+                <td>Column1b.</td>
+            </tr>
+        </table>
+    </tr>
 </table>
-
-
 
 
