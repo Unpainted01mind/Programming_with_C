@@ -17,20 +17,15 @@ int main(){
 ```
 ### Structure of a C Program :-
 
-<table border="1" style="width: 100%;">
-<!-- Main row -->
-<tr>
-    <td colspan="2">
-    <table border="1" style="width: 100%;">
-        <!-- Sub-column 1 -->
-        <tr>
-        <td>Sub-column 1</td>
-        <!-- Sub-column 2 -->
-        <td>Sub-column 2</td>
-        </tr>
-    </table>
-    </td>
-</tr>
+<table>
+    <tr>
+        <td colspan="2">Column 1.</td>
+    </tr>
+    <tr>
+    <td>Column1a.</td>
+    <td>Column1b.</td>
+    </tr>
+
 </table>
 
 
