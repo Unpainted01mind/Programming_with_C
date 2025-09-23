@@ -17,7 +17,7 @@ int main(){
 ```
 ### Structure of a C Program :-
 
-<table>
+<table border="1" style="width: 100%;">
     <tr>
         <td colspan="2">Column 1.</td>
         <table>
