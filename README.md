@@ -57,4 +57,13 @@ int main(){
     </tr>
 </table>
 
+### Explaination of each line:-
+#### 1. Header File :-
+* is a .h file,containing function declarations and macro definitions. 
+* lines starting with # is processed by preprocessor which is invoked by a compiler.
+#### Some Standard header files in C:-
+* stdio.h -> defines basic i/o functions like printf,scanf.
+* stdlib.h -> used for numeric conversion,random num generator and memory allocation.
+* string.h,math.h -> define string and math functions.
+
 
