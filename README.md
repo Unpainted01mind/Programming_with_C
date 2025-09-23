@@ -17,17 +17,24 @@ int main(){
 ```
 ### Structure of a C Program :-
 <table>
-    <tr>
-        <td>1.</td>
-        <td>#include &lt;stdio.h&gt;</td>
-        <td>header file.</td>
-    </tr>
-    <tr>
-        <td>2.</td>
-        <td>int main()</td>
-        <td>main function.</td>
-    </tr>
+  <tr>
+    <td colspan="2">col1</td>
+  </tr>
+  <tr>
+    <!-- The outer row now has three cells to match the header -->
+    <td></td> <!-- This cell will be blank -->
+    <td colspan="2"> <!-- This cell spans two columns to contain the nested table -->
+      <table>
+        <tr>
+          <td>col1a</td>
+          <td>col1b</td>
+        </tr>
+      </table>
+    </td>
+    <td></td> <!-- This cell will also be blank -->
+  </tr>
 </table>
+
 
 
 
