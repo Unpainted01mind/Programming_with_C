@@ -16,9 +16,10 @@ int main(){
 }
 ```
 ### Structure of a C Program :-
+|Sr no.||Line||Meaning|
 |---||---||---|
-|1.| |#include <stdio.h>| |header file|
-|2.| |int main()| |main function|
+|1. ||#include <stdio.h>| |header file|
+|2. ||int main()| |main function|
 
 
 
