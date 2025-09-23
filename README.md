@@ -19,11 +19,13 @@ int main(){
 
 <table>
     <tr>
-        <td >1.</td>
+        <td colspan="2" rowspan="2" > </td>
+        <td>1.</td>
         <td>#include &lt;stdio.h&gt;.</td>
         <td>header file.</td>
     </tr>
     <tr>
+    <td> </td>
     <td>2.</td>
     <td>int main()</td>
     <td>main function.</td>
