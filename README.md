@@ -7,7 +7,8 @@ This is a summarised version of C concepts which will come in handy for quick re
 * Mid Level Programming Language.
 <br>
 ### Writing First Program in C :-
-```
+
+```c
 #include <stdio.h>
 int main(){
     printf("Hello World Bye");
