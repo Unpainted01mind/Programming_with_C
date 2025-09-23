@@ -16,8 +16,8 @@ int main(){
 }
 ```
 ### Structure of a C Program :-
-|   |                   |              |
-|---|-------------------|--------------|
+|&nbsp;|&nbsp;             |&nbsp;        |
+|------|-------------------|--------------|
 | 1.|#include <stdio.h>|Header file|
 | 2.|int main()|Main function|
 
