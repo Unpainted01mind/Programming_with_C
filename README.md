@@ -16,10 +16,18 @@ int main(){
 }
 ```
 ### Structure of a C Program :-
-|&nb;  |&nb;               |&nb;          |
-|------|-------------------|--------------|
-| 1.|#include <stdio.h>|Header file|
-| 2.|int main()|Main function|
+<table>
+    <tr>
+        <td>1.</td>
+        <td>#include &lt;stdio.h&gt;</td>
+        <td>header file.</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>int main()</td>
+        <td>main function.</td>
+    </tr>
+</table>
 
 
 
