@@ -19,21 +19,41 @@ int main(){
 
 <table>
     <tr>
-        <td colspan="2">Column 1.</td>
+        <td >1.</td>
+        <td>#include &lt;stdio.h&gt;.</td>
+        <td>header file.</td>
     </tr>
     <tr>
-    <td>Column1a.</td>
-    <td>Column1b.</td>
+    <td>2.</td>
+    <td>int main()</td>
+    <td>main function.</td>
     </tr>
     <tr>
-    <td rowspan=2>BODY</td>
-    <td>data1</td>
+    <td colspan="2" rowspan="5">BODY</td>
+    <td>3.</td>
+    <td>&#123;</td>
+    <td>Start of main function body</td>
     </tr>
     <tr>
-    <td>data2</td>
+        <td>4.</td>
+        <td>//Printing hello world</td>
+        <td>Comment (doesnt affect code)</td>
     </tr>
-    
-
+    <tr>
+        <td>5.</td>
+        <td>printf("Hello World")</td>
+        <td>displaying Hello World </td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td>return 0;</td>
+        <td>returns 0 for successfull program completion</td>
+    </tr>
+    <tr>
+        <td>7.</td>
+        <td>&#125;</td>
+        <td>End of function body</td>
+    </tr>
 </table>
 
 
