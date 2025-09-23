@@ -25,6 +25,14 @@ int main(){
     <td>Column1a.</td>
     <td>Column1b.</td>
     </tr>
+    <tr>
+    <td rowspan=2>BODY</td>
+    <td>data1</td>
+    </tr>
+    <tr>
+    <td>data2</td>
+    </tr>
+    
 
 </table>
 
