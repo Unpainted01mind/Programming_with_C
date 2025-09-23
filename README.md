@@ -17,10 +17,9 @@ int main(){
 ```
 ### Structure of a C Program :-
 
-| Header 1 | Header 2 | Header 3 |
 |---|---|---|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| 1.|#include <stdio.h> |Header file |
+| 2. | int main() |Main function |
 
 
 
