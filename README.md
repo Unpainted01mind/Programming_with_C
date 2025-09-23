@@ -25,7 +25,6 @@ int main(){
         <td>header file.</td>
     </tr>
     <tr>
-    <td> </td>
     <td>2.</td>
     <td>int main()</td>
     <td>main function.</td>
