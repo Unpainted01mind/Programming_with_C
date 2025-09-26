@@ -66,4 +66,11 @@ int main(){
 * stdlib.h -> used for numeric conversion,random num generator and memory allocation.
 * string.h,math.h -> define string and math functions.
 
+#### 2. Main Method :-
+* Basically the entry point of the program.
+* Program execution begins with first line of main()
+* int-> return type of main
+* int main(){}->main doesnt need any parameters.
 
+#### 3. Body of the Main Function :-
+* 
