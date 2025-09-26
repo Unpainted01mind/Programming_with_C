@@ -11,6 +11,7 @@ This is a summarised version of C concepts which will come in handy for quick re
 ```c
 #include <stdio.h>
 int main(){
+    // a single line comment.
     printf("Hello World Bye");
     return 0;
 }
@@ -73,4 +74,23 @@ int main(){
 * int main(){}->main doesnt need any parameters.
 
 #### 3. Body of the Main Function :-
-* 
+* Contains our program code which can be
+* sorting, searching , file handling etc.
+#### 4. Comments :-
+* Comments are used to describe our code and are ignored by the compiler.
+* // denotes a single line comment.
+* /* */ denotes a multi line comment which goes up to multiple code blocks.
+#### 5. Print Statement :-
+* Statements are instructions given to the compiler and end with semicolon (;)
+* Here print statement tells the compiler to display the line "Hello World".
+#### 6. Return Statement :-
+* Used to return a value of the return type of the function
+* here 0 (int) is returned since main function has return type as int
+* 0 means successfull program completion.
+
+### History of C :-
+#### C evolved through the following versions :-
+* ANSI C was internationally adopted in 1990
+* C99 was created in 1999.
+* C11 in 2011.
+* 2024 published ISO/IEC 9899:2024 , based on C23 is the most recent version of C.
