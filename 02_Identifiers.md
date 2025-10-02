@@ -30,4 +30,5 @@ In the above program var is an identifier for an integer type variable to store 
 |Feature | Keyword | Identifier|
 |--------|---------|-----------|
 |Definition|Its a reserved word with a special meaning|its used to identify variables,functions,etc|
+|Usage|predefined and used to define and structure the control flow of program| used to store values/string.|
 
