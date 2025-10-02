@@ -1,4 +1,4 @@
-### C Compilation Process :-
+## C Compilation Process :-
 
 #### Compilation begins from source file which is then preprocessed , compiled , assembled and then finally executed.
 
@@ -18,7 +18,7 @@ graph TD
 1) **Assembling.**
 1) **Linking.**
 
-#### 1) **Pre-processing** :-
+### 1) **Pre-processing** :-
 ### It involves various processes like:-
 * creation of filename.i(.i file)
 * Expansion of macros
@@ -28,4 +28,4 @@ graph TD
 
 #### In the end our code is still preserved.
 * printf contains a/b instead of divide(a,b)
-* &lt;stdio.h&gt; isnt seen as header files have been copied and pasted into our current file.
+* &lt;stdio.h&gt; isn't seen as the header file itself is inside our compiled file instead of the preprocessor directive.
