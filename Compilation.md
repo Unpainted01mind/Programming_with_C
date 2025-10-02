@@ -11,8 +11,8 @@ graph TD
     E-->F[FinalOutputCode]
 ```
 
-### What happens during compilation?
-#### The source code is compiled to an executable which undergoes the following stages :-
+## What happens during compilation?
+### The source code is compiled to an executable which undergoes the following stages :-
 1) **Pre-processing.**
 1) **Compiling.**
 1) **Assembling.**
