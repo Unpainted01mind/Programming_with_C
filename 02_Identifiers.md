@@ -31,4 +31,7 @@ In the above program var is an identifier for an integer type variable to store 
 |--------|---------|-----------|
 |Definition|Its a reserved word with a special meaning|its used to identify variables,functions,etc|
 |Usage|predefined and used to define and structure the control flow of program| used to store values/string.|
-
+|Example|int,return,printf,float etc|totalSum,MAX_SIZE,Var_Struct|
+|Modification|they are predefined and hence can't be modified|they can be modified given they follow naming rules|
+|Case Sensitivity|Both are case sensitive|
+|Types|||
