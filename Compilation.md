@@ -1,6 +1,6 @@
 ### C Compilation Process :-
 
-##### Compilation begins from source file which is then preprocessed , compiled , assembled and then finally executed.
+#### Compilation begins from source file which is then preprocessed , compiled , assembled and then finally executed.
 
 ```mermaid
 graph TD
@@ -18,7 +18,7 @@ graph TD
 1) **Assembling.**
 1) **Linking.**
 
-## 1) **Pre-processing** :-
+#### 1) **Pre-processing** :-
 ### It involves various processes like:-
 * creation of filename.i(.i file)
 * Expansion of macros
