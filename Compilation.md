@@ -29,3 +29,11 @@ graph TD
 #### In the end our code is still preserved.
 * printf contains a/b instead of divide(a,b)
 * &lt;stdio.h&gt; isn't seen as the header file itself is inside our compiled file instead of the preprocessor directive.
+
+###  **Compilation** :-
+#### Basically involves filename.i being compiled to an intermediate compiled output called filename.s which is an Assembly file.
+
+### 3) **Assembling** :-
+#### The Assembler converts the input fileame.i to an object file -> filename.o which contains machine level instructions. It contains existing code translated to machine code but doesn't resolve functions like printf().
+
+### 4) **Linking**
