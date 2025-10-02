@@ -10,4 +10,4 @@ int main(){
     return 0;
 }
 ```
-In the above program var is an identifier for a variable to store the value 10 , which is being referred in the print function.
+In the above program var is an identifier for an integer type variable to store the value 10 , which is being referred in the print function.
