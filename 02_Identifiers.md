@@ -23,5 +23,5 @@ In the above program var is an identifier for an integer type variable to store 
      * use camelCase
      * ex :- studentName,stringLength
      * for constants use MAX_SIZE,PI,MIN
-  2) for funnctions use camelCase
+  2) for functions use camelCase.
   3) for structs use PascalCase , ex - VariableTypes.
