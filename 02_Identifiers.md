@@ -11,3 +11,9 @@ int main(){
 }
 ```
 In the above program var is an identifier for an integer type variable to store the value 10 , which is being referred in the print function.
+
+### Rules for naming identifiers :-
+* Identifiers can be uppercase(A-Z)/lowercase(a-z) , numeric , or can have underscores(_)
+* The first character of an identifier must be either an underscore or a letter
+* Identifiers are case sensitive.
+* Keywords such as printf,scanf,int,float etc can't be used as Identifiers.
