@@ -3,7 +3,7 @@
 ##### Compilation begins from source file which is then preprocessed , compiled , assembled and then finally executed.
 
 ```mermaid
-%%{init: {'theme': 'base'}}%%
+
 graph TD
     A[SourceCode]-->B[Preprocessor]
     B--Preprocessed file(.i file)-->C[Compiler]
