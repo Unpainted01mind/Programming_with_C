@@ -17,3 +17,11 @@ In the above program var is an identifier for an integer type variable to store 
 * The first character of an identifier must be either an underscore or a letter
 * Identifiers are case sensitive.
 * Keywords such as printf,scanf,int,float etc can't be used as Identifiers.
+
+  ### Some naming conventions : -
+  1) For variable names
+     * use camelCase
+     * ex :- studentName,stringLength
+     * for constants use MAX_SIZE,PI,MIN
+  2) for funnctions use camelCase
+  3) for structs use PascalCase , ex - VariableTypes.
