@@ -13,7 +13,14 @@ graph TD
 
 ### What happens during compilation?
 #### The source code is compiled to an executable which undergoes the following stages :-
-1) Pre-processing.
-1) Compiling.
-1) Assembling.
-1) Linking.
+1) **Pre-processing.**
+1) **Compiling.**
+1) **Assembling.**
+1) **Linking.**
+
+1) **Pre-processing** :-
+### It involves various processes like:-
+* Expansion of macros
+* Expansion of included file
+* Removal of comments
+* Conditional Compilation
