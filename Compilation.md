@@ -31,16 +31,18 @@ graph TD
 * &lt;stdio.h&gt; isn't seen as the header file itself is inside our compiled file instead of the preprocessor directive.
 
 ### 2) Compilation :-
-#### Basically involves filename.i being compiled to an intermediate compiled output called filename.s which is an Assembly file.
+Basically involves filename.i being compiled to an intermediate compiled output called filename.s which is an Assembly file.
 
 ### 3) Assembling :-
-#### The Assembler converts the input fileame.i to an object file -> filename.o which contains machine level instructions. It contains existing code translated to machine code but doesn't resolve functions like printf().
+The Assembler converts the input fileame.i to an object file -> filename.o which contains machine level instructions. It contains existing code translated to machine code but doesn't resolve functions like printf().
 
 ### 4) Linking :-
-#### Its the final phase of our program, where function calls are linked to their definitions. The linker adds some extra code which is required when our program begins and ends. 
+ Its the final phase of our program, where function calls are linked to their definitions. The linker adds some extra code which is required when our program begins and ends. 
+
 #### For example -> giving command line arguments via the terminal(console).
 
 #### Linking is of two types :-
-1) Static Linking :- The  machine code is copied to a single file and then executed.
-2) Dynamic Linking :- Only the names of shared libraries are included in the code which are referred during execution.
+1) **Static Linking** :- The  machine code is copied to a single file and then executed.
+2) **Dynamic Linking** :- Only the names of shared libraries are included in the code which are referred during execution.
+
 #### GCC by default does Dynamic Linking hence printf() is dynamically linked.
