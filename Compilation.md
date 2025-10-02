@@ -30,7 +30,7 @@ graph TD
 * printf contains a/b instead of divide(a,b)
 * &lt;stdio.h&gt; isn't seen as the header file itself is inside our compiled file instead of the preprocessor directive.
 
-###  **Compilation** :-
+### 2) Compilation :-
 #### Basically involves filename.i being compiled to an intermediate compiled output called filename.s which is an Assembly file.
 
 ### 3) **Assembling** :-
